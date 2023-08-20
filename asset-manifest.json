@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactTest/static/css/main.8b146152.css",
+    "main.js": "/reactTest/static/js/main.ea7a2913.js",
+    "static/media/book2.jpg": "/reactTest/static/media/book2.bf9b0121b588d7abaf43.jpg",
+    "static/media/book1.jpg": "/reactTest/static/media/book1.e669f0eca7ad70a63a89.jpg",
+    "index.html": "/reactTest/index.html",
+    "main.8b146152.css.map": "/reactTest/static/css/main.8b146152.css.map",
+    "main.ea7a2913.js.map": "/reactTest/static/js/main.ea7a2913.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b146152.css",
+    "static/js/main.ea7a2913.js"
+  ]
+}
